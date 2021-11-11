@@ -11,5 +11,15 @@
     <li>matplotlib==3.4.2</li>
 </ul>
 
+<h2>Citation</h2>
+<pre>
+@inproceedings{duan2021learning,
+  title={Learning Numeracy: A Simple Yet Effective Number Embedding Approach Using Knowledge Graph},
+  author={Duan, Hanyu and Yang, Yi and Tam, Kar Yan},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2021},
+  pages={2597--2602},
+  year={2021}
+}
+</pre>
 <h2>Contact</h2>
 Please feel free to contact <a href="mailto:hduanac@connect.ust.hk">hduanac@connect.ust.hk</a> if you have any question.
